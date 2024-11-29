@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301517136732",
+    "project_id": "order-analytics-d32a8",
+    "storage_bucket": "order-analytics-d32a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301517136732:android:87c8914eba96d40c34d799",
+        "android_client_info": {
+          "package_name": "com.example.order_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttDULJpLn_v5HWLK9_7AZneW5LvPT6m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
